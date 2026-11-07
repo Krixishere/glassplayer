@@ -1,0 +1,37 @@
+GlassPlayer
+Copyright (c) 2026 Krixishere. All Rights Reserved.
+
+This software, including its source code, compiled files, textures, images,
+translations and documentation (together, "the Software"), is the property of
+the copyright holder and is protected by copyright law.
+
+You may download the official releases of the Software and use them for your
+own personal, non-commercial play in Minecraft, including on servers you run.
+
+Without prior written permission from the copyright holder you may NOT:
+  - copy, modify, adapt, translate or create derivative works of the Software
+    or any part of it;
+  - redistribute, re-upload, mirror, sell, rent or sublicense the Software or
+    any part of it, on any website, launcher or platform;
+  - include the Software in a modpack that is distributed outside of a
+    platform's official modpack system (CurseForge / Modrinth modpacks that
+    download the file from the official project page are allowed);
+  - use any part of the source code in another project;
+  - remove or change this notice or the author credits.
+
+Viewing the source code on GitHub does not grant any of these rights.
+
+Releases published before this notice (GlassPlayer 1.0.0 and 1.1.0) were
+released under the GNU GPL-3.0; those copies keep that license. All later
+versions are covered by this notice only.
+
+Third-party components keep their own licenses:
+  - JLayer (MP3 decoding) is licensed under the GNU LGPL; its license and source
+    are available at https://github.com/umjammer/jlayer.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+Minecraft is a trademark of Mojang AB. GlassPlayer is not an official Minecraft
+product and is not approved by or associated with Mojang or Microsoft.
